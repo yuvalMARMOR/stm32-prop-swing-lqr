@@ -34,7 +34,7 @@ Closed-loop stabilization and control of a pendulum-like swing driven by propell
 - [Simulink Model](docs/read_data_SWING.slx)
 
 ## Authors
-- Yuval Marmur  
+- Yuval Marmor  
 - Rabea Hawa
 
 ## License
