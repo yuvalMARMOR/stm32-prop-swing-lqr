@@ -35,7 +35,7 @@ Closed-loop stabilization and control of a pendulum-like swing driven by propell
 
 ## Authors
 - Yuval Marmur  
-- TODO: Add second contributor
+- Rabea Hawa
 
 ## License
 MIT License
