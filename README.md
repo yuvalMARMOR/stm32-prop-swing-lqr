@@ -36,8 +36,9 @@ Closed-loop stabilization and control of a pendulum-like swing driven by propell
     # Open with STM32CubeIDE or PlatformIO and build for STM32F10x
 
 ## Documentation
-- Final Report (PDF): docs/Final_Report.pdf
-- Simulink Model:     docs/read_data_SWING.slx
+- [Final Report (PDF)](docs/Final_Report.pdf)
+- [Simulink Model](docs/read_data_SWING.slx)
+
 
 ## Authors
 - Yuval Marmor
