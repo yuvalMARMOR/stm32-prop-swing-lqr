@@ -1,0 +1,8 @@
+# Keep generated documentation and media out of GitHub's language statistics.
+notebooks/*.ipynb linguist-documentation=true
+assets/figures/* linguist-documentation=true
+assets/images/* linguist-documentation=true
+assets/media/* linguist-documentation=true
+
+# MATLAB/Simulink models are binary archives.
+*.slx binary
