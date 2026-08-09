@@ -7,11 +7,14 @@
 Model-reference dynamics, LQR-derived state feedback, dual PWM/DAC actuation,
 and serial telemetry implemented on an STM32F10x microcontroller.
 
-[Engineering notebook](notebooks/stm32_propeller_swing_lqr.ipynb) &nbsp;&middot;&nbsp;
-[Demo video](assets/media/controller-demo.mp4) &nbsp;&middot;&nbsp;
+[Open the full engineering notebook](notebooks/stm32_propeller_swing_lqr.ipynb) &nbsp;&middot;&nbsp;
 [Simulink monitor](models/read_data_SWING.slx)
 
 </div>
+
+## Full demonstration
+
+https://github.com/user-attachments/assets/b8affc33-cc30-4c7a-bc1a-70199a0b5af0
 
 ## The system
 
@@ -92,10 +95,6 @@ than presented as newly reproduced results.
 | Command potentiometer | ADC1 | PA1 |
 | Serial telemetry | USART2 TX | PA2 |
 
-<p align="center">
-  <img src="assets/images/hardware-setup.jpeg" alt="STM32 controller hardware and wiring" width="480">
-</p>
-
 ## Repository guide
 
 | Path | Contents |
@@ -105,7 +104,6 @@ than presented as newly reproduced results.
 | [`notebooks/`](notebooks) | Primary engineering documentation and analysis |
 | [`models/`](models) | MATLAB/Simulink serial telemetry viewer |
 | [`assets/figures/`](assets/figures) | System, calibration, and response figures |
-| [`assets/media/`](assets/media) | Physical closed-loop demonstration |
 
 ## Telemetry
 
